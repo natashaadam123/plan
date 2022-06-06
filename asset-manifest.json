@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wsustudyplanner/static/css/main.f089b020.css",
+    "main.js": "/wsustudyplanner/static/js/main.e133f8d2.js",
+    "index.html": "/wsustudyplanner/index.html",
+    "main.f089b020.css.map": "/wsustudyplanner/static/css/main.f089b020.css.map",
+    "main.e133f8d2.js.map": "/wsustudyplanner/static/js/main.e133f8d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f089b020.css",
+    "static/js/main.e133f8d2.js"
+  ]
+}
